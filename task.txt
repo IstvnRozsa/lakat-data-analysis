@@ -1,0 +1,63 @@
+Task 4. Real Epidemiology data 
+
+Data for every country on Earth for confirmed, dead and recovered cases are stored here: 
+
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series 
+
+Confirmed is the total number of confirmed cases up to that date. 
+
+Death is the total number of deceased up to that date 
+
+Recovered is the total number of recovered individual up to that date 
+
+ 
+
+How can we calculate the number of actually sick people? 
+
+Can you extract this information for your country from the files. 
+-------------------------------------------------------------------------------------------------------------------------------
+ 
+
+Task 5. Running cost for your experiment. 
+
+You got a file from your usual supplier which is a text file. 
+
+The first row is just a header with "Reagent name Price Quantity" 
+
+From the second row there are the reagents this supplier has in store. The columns are delimitered by a TAB. The file is supplierprices.txt 
+
+You need: 
+
+100 liters of distilled water 
+
+1000 liters of alcohol (96%) 
+
+5 kg of rabbit litter 
+
+50 g of fruit fly food 
+
+ 
+
+Task 6. Pizza delivery data 
+
+You have an Italian restaurant that also delivers pizza to costumers. You have a database with the hour of the order (12:08), the type of pizza ordered, the distance of the delivery and the name of the delivery guy. If more than one pizza was ordered then there is as many lines as order (so each line have only one pizza ordered). 
+
+Pizzaorder.txt 
+
+Orders are not in time order, but one batch is always after each other. 
+
+ 
+
+Task 6.1 What is the busiest hour during the day? 
+
+Task 6.2 What is your revenue if Margherite cost 1000, Salami 1200, Funghi 1100, Quatro formaggi 1250, Calzone 1250, Frutti di Mare 1500, Hawaii 1250 ? 
+
+Task 6.3 How many pizzas were ordered before noon? 
+
+Task 6.4 Which pizza was order the most? (and how much) 
+
+Task 6.5 Who travelled the most that day? (do not count batches of delivery as separate trips) 
+
+Task 6.6 Prices go up so fast that even the owner cannot follow. Can you make it so that prices are read from another file? So by changing the price in that file you can recalculate 6.2 and also calculate hourly revenues?  
+
+Which hour produces the most income?
