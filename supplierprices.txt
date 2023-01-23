@@ -1,5 +1,5 @@
-Reagent name	Price Quantity
-distilled water	10
-alcohol (96%)	30
-rabbit litter	13
-fruit fly food	18
+Reagent name	Price	Quantity
+distilled water	10	1000
+alcohol (96%)	30	340
+rabbit litter	60	12
+fruit fly food	100	300

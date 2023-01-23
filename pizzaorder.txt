@@ -1,0 +1,269 @@
+12:51	Hawaii	10	Edward
+12:51	Salami	10	Edward
+12:51	Quattro Formaggi	10	Edward
+11:37	Margherita	7	John
+11:37	Calzone	7	John
+13:44	Calzone	5	Edward
+13:44	Salami	5	Edward
+13:35	Salami	9	Edward
+13:35	Hawaii	9	Edward
+13:35	Funghi	9	Edward
+13:35	Quattro Formaggi	9	Edward
+13:35	Frutti di Mare	9	Edward
+11:22	Salami	12	Edward
+11:22	Frutti di Mare	12	Edward
+11:22	Quattro Formaggi	12	Edward
+11:22	Hawaii	12	Edward
+11:22	Margherita	12	Edward
+11:45	Funghi	1	Joe
+11:45	Calzone	1	Joe
+11:45	Funghi	1	Joe
+11:45	Funghi	1	Joe
+11:45	Hawaii	1	Joe
+14:04	Quattro Formaggi	3	Edward
+16:32	Calzone	8	John
+13:51	Calzone	1	John
+13:51	Quattro Formaggi	1	John
+13:05	Frutti di Mare	1	Edward
+13:49	Salami	4	Edward
+13:49	Calzone	4	Edward
+13:49	Quattro Formaggi	4	Edward
+10:19	Calzone	11	John
+10:19	Funghi	11	John
+10:19	Margherita	11	John
+10:19	Calzone	11	John
+10:19	Hawaii	11	John
+14:17	Hawaii	10	Joe
+14:17	Calzone	10	Joe
+14:17	Quattro Formaggi	10	Joe
+13:01	Hawaii	1	Edward
+13:01	Salami	1	Edward
+13:01	Salami	1	Edward
+13:33	Salami	4	Edward
+13:33	Frutti di Mare	4	Edward
+15:10	Hawaii	10	Edward
+15:10	Margherita	10	Edward
+13:14	Hawaii	7	Joe
+13:14	Quattro Formaggi	7	Joe
+10:05	Hawaii	1	Edward
+10:05	Frutti di Mare	1	Edward
+10:05	Quattro Formaggi	1	Edward
+11:31	Frutti di Mare	7	John
+12:15	Frutti di Mare	4	Joe
+12:15	Salami	4	Joe
+12:15	Funghi	4	Joe
+13:57	Funghi	8	George
+13:57	Salami	8	George
+14:58	Calzone	1	Edward
+14:58	Salami	1	Edward
+14:58	Salami	1	Edward
+12:30	Funghi	11	Edward
+12:30	Salami	11	Edward
+10:29	Hawaii	3	Joe
+10:29	Salami	3	Joe
+13:50	Frutti di Mare	12	Edward
+13:50	Funghi	12	Edward
+15:54	Hawaii	9	John
+15:54	Margherita	9	John
+15:54	Hawaii	9	John
+11:46	Margherita	9	Edward
+12:46	Hawaii	16	Joe
+12:46	Funghi	16	Joe
+16:14	Funghi	14	George
+16:14	Quattro Formaggi	14	George
+12:08	Funghi	11	John
+12:08	Salami	11	John
+12:08	Hawaii	11	John
+12:08	Salami	11	John
+12:08	Salami	11	John
+12:16	Frutti di Mare	5	Joe
+12:16	Hawaii	5	Joe
+13:13	Calzone	3	Edward
+13:13	Funghi	3	Edward
+10:21	Salami	1	George
+10:21	Quattro Formaggi	1	George
+10:21	Quattro Formaggi	1	George
+10:21	Quattro Formaggi	1	George
+10:21	Hawaii	1	George
+12:57	Frutti di Mare	5	John
+12:57	Salami	5	John
+12:19	Salami	16	Edward
+12:19	Calzone	16	Edward
+12:37	Frutti di Mare	15	Joe
+12:37	Salami	15	Joe
+12:37	Quattro Formaggi	15	Joe
+12:46	Hawaii	8	George
+12:46	Margherita	8	George
+12:46	Hawaii	8	George
+12:46	Quattro Formaggi	8	George
+15:34	Hawaii	3	Joe
+12:39	Quattro Formaggi	1	Joe
+12:39	Quattro Formaggi	1	Joe
+12:55	Salami	5	Joe
+12:55	Calzone	5	Joe
+12:55	Calzone	5	Joe
+12:32	Margherita	7	George
+12:32	Margherita	7	George
+13:16	Hawaii	5	Edward
+13:16	Margherita	5	Edward
+15:19	Hawaii	9	George
+15:19	Frutti di Mare	9	George
+12:19	Funghi	3	George
+12:19	Salami	3	George
+12:42	Hawaii	7	Edward
+12:42	Quattro Formaggi	7	Edward
+13:50	Quattro Formaggi	1	Joe
+13:50	Quattro Formaggi	1	Joe
+16:22	Quattro Formaggi	1	Joe
+16:22	Quattro Formaggi	1	Joe
+15:40	Calzone	2	Joe
+15:40	Salami	2	Joe
+15:40	Calzone	2	Joe
+15:40	Calzone	2	Joe
+11:34	Hawaii	2	Edward
+11:34	Funghi	2	Edward
+10:03	Calzone	8	Edward
+10:03	Margherita	8	Edward
+15:07	Calzone	5	John
+15:07	Calzone	5	John
+15:07	Margherita	5	John
+15:07	Salami	5	John
+15:07	Salami	5	John
+15:45	Hawaii	2	Edward
+15:45	Margherita	2	Edward
+15:45	Hawaii	2	Edward
+15:45	Calzone	2	Edward
+15:45	Frutti di Mare	2	Edward
+13:36	Funghi	7	John
+15:57	Funghi	3	Edward
+15:57	Margherita	3	Edward
+13:06	Margherita	3	George
+10:18	Salami	6	George
+10:18	Funghi	6	George
+12:49	Hawaii	11	George
+12:49	Salami	11	George
+14:59	Quattro Formaggi	11	Edward
+16:54	Salami	1	John
+16:54	Calzone	1	John
+11:27	Salami	9	John
+11:27	Margherita	9	John
+11:27	Frutti di Mare	9	John
+11:27	Margherita	9	John
+11:27	Frutti di Mare	9	John
+11:38	Margherita	14	Edward
+11:38	Calzone	14	Edward
+11:38	Funghi	14	Edward
+12:19	Calzone	9	Edward
+12:19	Frutti di Mare	9	Edward
+12:19	Quattro Formaggi	9	Edward
+12:31	Frutti di Mare	5	Edward
+12:31	Funghi	5	Edward
+13:55	Margherita	5	George
+13:55	Frutti di Mare	5	George
+13:55	Quattro Formaggi	5	George
+14:42	Margherita	3	Joe
+14:42	Quattro Formaggi	3	Joe
+14:42	Margherita	3	Joe
+14:42	Frutti di Mare	3	Joe
+14:42	Calzone	3	Joe
+14:26	Quattro Formaggi	12	Edward
+14:26	Funghi	12	Edward
+10:35	Margherita	6	Joe
+10:35	Frutti di Mare	6	Joe
+10:35	Hawaii	6	Joe
+10:35	Margherita	6	Joe
+10:35	Margherita	6	Joe
+11:48	Quattro Formaggi	3	George
+11:48	Salami	3	George
+11:48	Hawaii	3	George
+12:03	Frutti di Mare	11	Edward
+11:57	Salami	5	Edward
+11:57	Salami	5	Edward
+11:57	Hawaii	5	Edward
+11:57	Margherita	5	Edward
+11:57	Funghi	5	Edward
+15:09	Salami	15	Edward
+15:09	Frutti di Mare	15	Edward
+15:18	Frutti di Mare	11	Joe
+15:18	Margherita	11	Joe
+12:56	Calzone	3	John
+12:56	Quattro Formaggi	3	John
+12:56	Hawaii	3	John
+12:45	Frutti di Mare	9	John
+12:45	Margherita	9	John
+12:45	Hawaii	9	John
+15:20	Calzone	10	Joe
+15:20	Funghi	10	Joe
+15:20	Margherita	10	Joe
+14:11	Margherita	3	Edward
+14:11	Salami	3	Edward
+12:15	Quattro Formaggi	10	John
+12:15	Quattro Formaggi	10	John
+13:33	Margherita	12	John
+13:33	Margherita	12	John
+13:28	Salami	10	George
+13:28	Funghi	10	George
+11:45	Margherita	12	Joe
+11:45	Quattro Formaggi	12	Joe
+11:45	Quattro Formaggi	12	Joe
+13:33	Calzone	10	Edward
+13:33	Salami	10	Edward
+13:33	Quattro Formaggi	10	Edward
+13:33	Hawaii	10	Edward
+12:56	Quattro Formaggi	15	John
+12:56	Hawaii	15	John
+12:56	Frutti di Mare	15	John
+12:47	Salami	10	John
+12:47	Funghi	10	John
+12:47	Margherita	10	John
+12:36	Frutti di Mare	8	Joe
+12:36	Hawaii	8	Joe
+12:36	Frutti di Mare	8	Joe
+12:36	Calzone	8	Joe
+13:04	Calzone	15	Joe
+13:04	Margherita	15	Joe
+13:04	Funghi	15	Joe
+13:04	Frutti di Mare	15	Joe
+13:48	Funghi	9	Joe
+13:48	Hawaii	9	Joe
+13:57	Hawaii	7	John
+13:57	Salami	7	John
+12:23	Quattro Formaggi	3	Edward
+12:23	Margherita	3	Edward
+12:23	Funghi	3	Edward
+11:14	Hawaii	1	Joe
+11:14	Frutti di Mare	1	Joe
+11:14	Calzone	1	Joe
+11:36	Quattro Formaggi	11	George
+11:36	Quattro Formaggi	11	George
+11:36	Quattro Formaggi	11	George
+11:36	Calzone	11	George
+11:36	Quattro Formaggi	11	George
+13:07	Salami	5	John
+13:07	Salami	5	John
+13:07	Hawaii	5	John
+16:23	Hawaii	8	Edward
+16:23	Frutti di Mare	8	Edward
+16:23	Margherita	8	Edward
+16:23	Frutti di Mare	8	Edward
+12:27	Salami	8	George
+12:27	Salami	8	George
+12:27	Salami	8	George
+12:27	Funghi	8	George
+12:27	Calzone	8	George
+10:42	Frutti di Mare	8	John
+10:42	Frutti di Mare	8	John
+10:42	Quattro Formaggi	8	John
+10:42	Salami	8	John
+10:42	Quattro Formaggi	8	John
+12:00	Frutti di Mare	7	George
+12:00	Margherita	7	George
+12:00	Funghi	7	George
+16:45	Calzone	9	George
+16:45	Margherita	9	George
+11:02	Quattro Formaggi	5	John
+11:02	Frutti di Mare	5	John
+15:40	Margherita	7	Joe
+10:47	Funghi	1	John
+10:47	Funghi	1	John
+13:11	Quattro Formaggi	8	Edward

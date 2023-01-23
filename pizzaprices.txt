@@ -1,0 +1,8 @@
+Pizza Type,Price from File
+Margherita,1000
+Salami,1200
+Funghi,1100
+Quattro Formaggi,1250
+Calzone,1250
+Frutti di Mare,1500
+Hawaii,1250
